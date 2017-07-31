@@ -1,0 +1,17 @@
+{
+  "draw": 1,
+  "recordsTotal": 1,
+  "recordsFiltered": 1,
+  "data": [
+    {
+      "Id": 0,
+      "Title": "雪碧",
+      "ClassId": 1,
+      "MarketPrice": 12,
+      "Price": 3,
+      "IsPublish": true,
+      "PublishTime": 12323123232,
+      "CreationTime": 12323123232
+    }
+  ]
+}

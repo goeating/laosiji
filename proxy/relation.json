@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "张三",
+    "state" : {"opened" : true },
+    "children": [
+      {
+        "id": 2,
+        "text": "李四",
+        "type": "child"
+      },
+      {
+        "id": 3,
+        "text": "王五",
+        "type": "child",
+        "state" : {"opened" : true },
+        "children": [
+          {
+            "id": 4,
+            "text": "赵六",
+            "type": "grandson"
+          }
+        ]
+      }
+    ]
+  }
+]
